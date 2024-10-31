@@ -4,3 +4,5 @@ normal.family = "MesloLGS NF"
 size= 14.0
 [window]
 opacity= 0.9
+padding = { x = 3, y = 3 }
+dimensions = { columns = 160, lines = 35 }
